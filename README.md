@@ -18,10 +18,13 @@ Install Dependencies: Make sure you have the required Python libraries installed
 
 bash
 pip install pandas numpy matplotlib
-Run from Terminal: Execute the script and pass the path to your CSV file as an argument.
+
+Run from Terminal: 
+Execute the script and pass the path to your CSV file as an argument.
 
 bash
 python analysis.py "path/to/your/dataset.csv"
+
 Output
 Console: Detailed statistical summaries for each column will be printed directly to your terminal.
 
